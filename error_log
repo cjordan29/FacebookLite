@@ -1,0 +1,3 @@
+[09-Oct-2010 22:35:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql' (1) in /home/rla128/public_html/wondercreationstudios/cjordan-FB_Lite/index.php on line 32
+[09-Oct-2010 22:35:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql' (1) in /home/rla128/public_html/wondercreationstudios/cjordan-FB_Lite/processLogin.php on line 4
+[21-Apr-2013 12:23:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Unknown MySQL server host 'mysql' (25) in /home/rla128/public_html/wondercreationstudios/cjordan-FB_Lite/index.php on line 32
