@@ -10,6 +10,7 @@ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
   <head>
+	<meta name="author" value="Chad Jordan">
 	<link rel="stylesheet" type="text/css" href="style.css" />
 	<style type="text/css">
 	body {background-color: #0099FF}
